@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GNDCore Pin=C68-1
-Added Pin To Net: NetName=GND Pin=C68-1
-Added Member To Class: ClassName=Port Member=Component * M3
-Added Member To Class: ClassName=Port Member=Component * M3
-Added Member To Class: ClassName=Port Member=Component * M3
