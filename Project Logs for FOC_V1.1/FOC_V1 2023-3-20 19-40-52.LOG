@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=FB1 Old Footprint=INDC1005[0402]S New Footprint=CAPC1608[0603]S-N
+Change Component Footprint: Designator=FB2 Old Footprint=INDC1005[0402]S New Footprint=CAPC1608[0603]S-N
+Added Pin To Net: NetName=VCC12V Pin=D8-A
+Added Pin To Net: NetName=VCC12V Pin=D11-A
+Added Pin To Net: NetName=VCC12V Pin=R90-1
+Added Member To Class: ClassName=Port Member=Component * M3
+Added Member To Class: ClassName=Port Member=Component * M3
+Added Member To Class: ClassName=Port Member=Component * M3
+Added Member To Class: ClassName=Port Member=Component C17 100nF ¡À10% 50V
+Added Member To Class: ClassName=Port Member=Component C19 100nF ¡À10% 50V
+Added Member To Class: ClassName=Port Member=Component C20 22uF ¡À10% 10V
+Added Member To Class: ClassName=Port Member=Component C21 22uF ¡À10% 10V
+Added Member To Class: ClassName=Port Member=Component C25 10uF ¡À10% 25V
+Added Member To Class: ClassName=Port Member=Component C26 22uF ¡À10% 25V
+Added Member To Class: ClassName=Port Member=Component C27 100nF ¡À10% 50V
+Added Member To Class: ClassName=Port Member=Component C67 22uF ¡À10% 10V
+Added Room: Name=Port

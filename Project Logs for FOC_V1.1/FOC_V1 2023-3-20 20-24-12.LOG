@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GNDCore Pin=C35-1
+Removed Pin From Net: NetName=GNDCore Pin=TP1-1
+Removed Pin From Net: NetName=VCC1V3 Pin=TP2-1
+Removed Pin From Net: NetName=VCC3V3 Pin=TP3-1
+Removed Pin From Net: NetName=GND Pin=TP5-1
+Removed Pin From Net: NetName=GND Pin=TP6-1
+Removed Pin From Net: NetName=VCC5V Pin=TP7-1
+Removed Pin From Net: NetName=GNDCore Pin=U20-3
+Removed Pin From Net: NetName=VCC5V Pin=U20-4
+Change Component Comment : Designator=C67 Old Comment=22uF ¡À10% 10V New Comment=1uF ¡À10% 10V
+Change component parameters: Designator = "C67"; Footprint = "CAPC1608[0603]S-N"; UniqueID = "\XJCHIHRS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Published"; Value = "2020-12-18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "V1.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC1V3 Pin=C35-1
+Added Pin To Net: NetName=GNDCore Pin=C35-2
+Added Pin To Net: NetName=VCC3V3 Pin=C67-1
+Added Pin To Net: NetName=VCC5V Pin=U20-3
+Added Pin To Net: NetName=VCC3V3 Pin=U20-4
+Added Pin To Net: NetName=GNDCore Pin=U20-5
+Added Pin To Net: NetName=VCC1V3 Pin=U20-6
+Added Member To Class: ClassName=Port Member=Component * M3
+Added Member To Class: ClassName=Port Member=Component * M3
+Added Member To Class: ClassName=Port Member=Component * M3
+Added Room: Name=Port
